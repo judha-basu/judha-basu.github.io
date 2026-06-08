@@ -26,9 +26,9 @@ latest_posts:
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
+Hello! I am Judhajeet Basu, a postdoctoral researcher at the [Indian Institute of Astrophysics](https://www.iiap.res.in/), Bengaluru. 
+I completed my PhD from IIA, and before that, I was an integrated BSc-MSc student of Physics at IIT Kharagpur.
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](https://www.reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+My research is in time-domain and high-energy astrophysics — I investigate erupting and exploding stars, including recurrent novae, fast X-ray transients, and Type Ia supernova progenitors, using multiwavelength observations from facilities like AstroSat, Swift, and the Himalayan Chandra Telescope.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Outside work, I like to play football and explore new dishes!
