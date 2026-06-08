@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://judha-basu.github.io/al-folio/sitemap.xml
+Sitemap: https://judha-basu.github.io/sitemap.xml
