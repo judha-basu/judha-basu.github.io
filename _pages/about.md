@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: Postdoctoral Researcher, <a href='https://www.iiap.res.in/'>Indian Institute of Astrophysics</a>, Bengaluru
 
 profile:
   align: right
@@ -27,7 +27,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 Hello! I am Judhajeet Basu, a postdoctoral researcher at the [Indian Institute of Astrophysics](https://www.iiap.res.in/), Bengaluru. 
-I completed my PhD from IIA, and before that, I was an integrated BSc-MSc student of Physics at IIT Kharagpur.
+I completed my PhD from IIA, and before that, I was an integrated BSc-MSc student of Physics at [IIT Kharagpur](https://www.iitkgp.ac.in/).
 
 My research is in time-domain and high-energy astrophysics — I investigate erupting and exploding stars, including recurrent novae, fast X-ray transients, and Type Ia supernova progenitors, using multiwavelength observations from facilities like AstroSat, Swift, and the Himalayan Chandra Telescope.
 
