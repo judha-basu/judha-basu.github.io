@@ -1,24 +1,9 @@
 ---
-layout: page
-title: publications
+layout: bib
+title: refereed
 permalink: /publications/
 nav: true
 nav_order: 2
-description: My peer-reviewed and other publications.
+description: My peer-reviewed publications.
+bibliography: papers.bib
 ---
-
-{% tabs publications %}
-
-{% tab publications refereed %}
-{% bibliography -f papers %}
-{% endtab %}
-
-{% tab publications non-refereed %}
-{% bibliography -f non_refereed %}
-{% endtab %}
-
-{% endtabs %}
-
-
-
-</div>
