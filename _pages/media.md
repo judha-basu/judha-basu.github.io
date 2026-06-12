@@ -1,7 +1,7 @@
 ---
 layout: page
-title: media
-permalink: /media/
+title: news & media
+permalink: /news/
 nav: true
 nav_order: 5
 ---
