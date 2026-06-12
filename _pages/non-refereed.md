@@ -15,6 +15,7 @@ nav_order: 3
 
 <div class="publications">
 
-{% non_refereed.bib %}
+{% bibliography -f non_refereed %}
 
 </div>
+
