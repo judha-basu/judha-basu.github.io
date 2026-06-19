@@ -6,7 +6,7 @@ nav: true
 nav_order: 5
 cv_pdf: /assets/pdf/Judhajeet_Basu_CV.pdf # you can also use external links here
 cv_format: rendercv # options: rendercv, jsonresume
-description: My academic journey, research interests, and professional timeline at a glance.
+description: My academic journey, research interests, and professional timeline at a glance. Full CV can be downloaded as a PDF.
 toc:
   sidebar: left
 ---
