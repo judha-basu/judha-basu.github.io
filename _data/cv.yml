@@ -37,7 +37,7 @@ cv:
         start_date: 2019-07
         end_date: 2020-06
         highlights:
-          - "Quasinormal modes in curved spacetimes. Supervisor: Prof. Sayan Kar"
+          - "Quasinormal modes in curved spacetimes.<br>Supervisor: Prof. Sayan Kar"
 
       - company: Nicolaus Copernicus University
         position: Research Intern
@@ -45,7 +45,7 @@ cv:
         start_date: 2019-05
         end_date: 2019-07
         highlights:
-          - "Cosmic topology and cosmic N-body simulations. Supervisor: Prof. Boudewijn F. Roukema"
+          - "Cosmic topology and cosmic N-body simulations.<br>Supervisor: Prof. Boudewijn F. Roukema"
 
       - company: Indian Institute of Astrophysics
         position: Research Intern
@@ -53,7 +53,7 @@ cv:
         start_date: 2018-05
         end_date: 2018-06
         highlights:
-          - "Solar chromospheric rotation rates from Ca II-K plage data. Supervisor: Prof. Dipankar Banerjee"
+          - "Solar chromospheric rotation rates from Ca II-K plage data.<br>Supervisor: Prof. Dipankar Banerjee"
 
       - company: Aryabhatta Research Institute of Observational Sciences
         position: Research Intern
@@ -61,7 +61,7 @@ cv:
         start_date: 2017-05
         end_date: 2017-07
         highlights:
-          - "Spectral energy distributions of galaxies. Supervisor: Dr. Amitesh Omar"
+          - "Spectral energy distributions of galaxies.<br>Supervisor: Dr. Amitesh Omar"
 
     Education:
       - institution: Indian Institute of Astrophysics
