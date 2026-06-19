@@ -4,7 +4,7 @@ cv:
   email: judhajeet20@gmail.com
   location: Indian Institute of Astrophysics, Bengaluru, India
   image: ""
-  summary: My research centers on time-domain astronomy with an emphasis on multiwavelength observations of novae and the role of recurrent novae in the Type Ia supernovae progenitor problem. I combine UV and X-ray observations with ground-based optical imaging and spectroscopy to probe the physics of transients. I also contribute to survey science and pipeline development for transient detection, and maintain active interests in fast (FXTs, FBOTs, GRBs, CVs) and slow transients (LRNe, CL-AGN).
+  summary: My research centers on observational time-domain astronomy with an emphasis on novae and the role of recurrent novae in the Type Ia supernovae progenitor problem. I combine optical, UV and X-ray data to probe the physics of transients. I like to contribute to survey science and pipeline development for transient detection. I maintain active interests in fast (FXTs, FBOTs, GRBs, CVs) and slow (LRNe, CL-AGN) transients.
 
   social_networks:
     - network: GitHub
@@ -28,7 +28,9 @@ cv:
         start_date: 2020-09
         end_date: 2025-08
         highlights:
-          - "Thesis: Multiwavelength study of novae in M31. Supervisor: Dr. Sudhanshu Barway"
+          - |
+          Thesis: Multiwavelength study of novae in M31. 
+          Supervisor: Dr. Sudhanshu Barway.
           - Member of the GROWTH-India Telescope collaboration and the forthcoming Daksha X-ray mission team.
 
       - company: Indian Institute of Technology Kharagpur
