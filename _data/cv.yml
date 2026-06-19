@@ -138,46 +138,46 @@ cv:
         awarder: Govt. of India
         summary: "2015--2020"
 
-    Skills:
-      - name: Facilities (PI)
-        level: Expert
-        icon: fa-solid fa-telescope
-        keywords: "HCT (114 hr), GIT (M31 daily-cadence survey), AstroSat/UVIT (59 ks), AstroSat/SXT (140 ks)"
+    # Skills:
+    #   - name: Facilities (PI)
+    #     level: Expert
+    #     icon: fa-solid fa-telescope
+    #     keywords: "HCT (114 hr), GIT (M31 daily-cadence survey), AstroSat/UVIT (59 ks), AstroSat/SXT (140 ks)"
 
-      - name: Facilities (CoI)
-        level: Expert
-        icon: fa-solid fa-satellite
-        keywords: "HCT (194 hr), AstroSat/SXT (58 ks)"
+    #   - name: Facilities (CoI)
+    #     level: Expert
+    #     icon: fa-solid fa-satellite
+    #     keywords: "HCT (194 hr), AstroSat/SXT (58 ks)"
 
-      - name: Archives
-        level: Proficient
-        icon: fa-solid fa-database
-        keywords: "Swift (UVOT, XRT), ZTF, HST, Keck, P200, CFHT"
+    #   - name: Archives
+    #     level: Proficient
+    #     icon: fa-solid fa-database
+    #     keywords: "Swift (UVOT, XRT), ZTF, HST, Keck, P200, CFHT"
 
-      - name: Data Reduction
-        level: Expert
-        icon: fa-solid fa-code
-        keywords: "IRAF, PyRAF, CCDLAB, HEASoft (XSELECT, XIMAGE)"
+    #   - name: Data Reduction
+    #     level: Expert
+    #     icon: fa-solid fa-code
+    #     keywords: "IRAF, PyRAF, CCDLAB, HEASoft (XSELECT, XIMAGE)"
 
-      - name: Spectral Modelling
-        level: Proficient
-        icon: fa-solid fa-chart-line
-        keywords: "XSPEC, CLOUDY, PHOENIX"
+    #   - name: Spectral Modelling
+    #     level: Proficient
+    #     icon: fa-solid fa-chart-line
+    #     keywords: "XSPEC, CLOUDY, PHOENIX"
 
-      - name: Computing
-        level: Proficient
-        icon: fa-solid fa-laptop
-        keywords: "Python, C, MATLAB, Linux"
+    #   - name: Computing
+    #     level: Proficient
+    #     icon: fa-solid fa-laptop
+    #     keywords: "Python, C, MATLAB, Linux"
 
-    Languages:
-      - name: Bengali
-        summary: "Native speaker"
-      - name: English
-        summary: "Fluent"
-      - name: Hindi
-        summary: "Proficient"
+    # Languages:
+    #   - name: Bengali
+    #     summary: "Native speaker"
+    #   - name: English
+    #     summary: "Fluent"
+    #   - name: Hindi
+    #     summary: "Proficient"
 
-    Interests:
-      - name: Research
-        icon: fa-solid fa-star
-        keywords: "Recurrent Novae, Classical Novae, Type Ia Supernova Progenitors, Fast X-ray Transients, FBOTs, Time-domain Astronomy"
+    # Interests:
+    #   - name: Research
+    #     icon: fa-solid fa-star
+    #     keywords: "Recurrent Novae, Classical Novae, Type Ia Supernova Progenitors, Fast X-ray Transients, FBOTs, Time-domain Astronomy"
