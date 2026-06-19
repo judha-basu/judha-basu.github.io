@@ -1,0 +1,182 @@
+cv:
+  name: Judhajeet Basu
+  label: Postdoctoral Researcher
+  email: judhajeet20@gmail.com
+  location: Indian Institute of Astrophysics, Bengaluru, India
+  image: ""
+  summary: My research centers on time-domain astronomy with an emphasis on multiwavelength observations of novae and the role of recurrent novae in the Type Ia supernovae progenitor problem. I combine UV and X-ray observations with ground-based optical imaging and spectroscopy to probe the physics of transients. I also contribute to survey science and pipeline development for transient detection, and maintain active interests in fast (FXTs, FBOTs, GRBs, CVs) and slow transients (LRNe, CL-AGN).
+
+  social_networks:
+    - network: GitHub
+      username: judha-basu
+    - network: ORCID
+      username: 0000-0001-7570-545X
+
+  sections:
+    Experience:
+      - company: Indian Institute of Astrophysics
+        position: Postdoctoral Researcher
+        location: Bengaluru, India
+        start_date: 2025-08
+        end_date: present
+        highlights:
+          - Time-domain survey science including novae, CVs, LRNe, supernovae, FXTs, FBOTs, and changing-look AGN.
+
+      - company: Indian Institute of Astrophysics
+        position: Doctoral Researcher (PhD)
+        location: Bengaluru, India
+        start_date: 2020-09
+        end_date: 2025-08
+        highlights:
+          - "Thesis: Multiwavelength study of novae in M31. Supervisor: Dr. Sudhanshu Barway"
+          - Member of the GROWTH-India Telescope collaboration and the forthcoming Daksha X-ray mission team.
+
+      - company: Indian Institute of Technology Kharagpur
+        position: MSc Research Project
+        location: Kharagpur, India
+        start_date: 2019-07
+        end_date: 2020-06
+        highlights:
+          - "Quasinormal modes in curved spacetimes. Supervisor: Prof. Sayan Kar"
+
+      - company: Nicolaus Copernicus University
+        position: Research Intern
+        location: Torun, Poland
+        start_date: 2019-05
+        end_date: 2019-07
+        highlights:
+          - "Cosmic topology and cosmic N-body simulations. Supervisor: Prof. Boudewijn F. Roukema"
+
+      - company: Indian Institute of Astrophysics
+        position: Research Intern
+        location: Bengaluru, India
+        start_date: 2018-05
+        end_date: 2018-06
+        highlights:
+          - "Solar chromospheric rotation rates from Ca II-K plage data. Supervisor: Prof. Dipankar Banerjee"
+
+      - company: Aryabhatta Research Institute of Observational Sciences
+        position: Research Intern
+        location: Nainital, India
+        start_date: 2017-05
+        end_date: 2017-07
+        highlights:
+          - "Spectral energy distributions of galaxies. Supervisor: Dr. Amitesh Omar"
+
+    Education:
+      - institution: Indian Institute of Astrophysics
+        location: Bengaluru, India
+        url: https://www.iiap.res.in/
+        area: Astronomy and Astrophysics
+        studyType: Doctor of Philosophy
+        start_date: 2020-09
+        end_date: 2025-08
+        highlights:
+          - "Thesis: Multiwavelength Study of Novae in M31"
+
+      - institution: Indian Institute of Technology Kharagpur
+        location: Kharagpur, India
+        url: https://www.iitkgp.ac.in/
+        area: Physics
+        studyType: 5-year Integrated MSc
+        start_date: 2015-07
+        end_date: 2020-06
+        highlights:
+          - "Major: Physics | Micro-specialisation: Simulation Methods and Applications"
+          - "CGPA: 9.00 / 10"
+
+      - institution: Central Model School Barrackpore
+        location: Kolkata, India
+        area: Physics, Mathematics, Chemistry, Biology
+        studyType: Senior School Certificate (CBSE)
+        start_date: 2013-04
+        end_date: 2015-04
+        highlights:
+          - "Score: 94%"
+
+    Awards:
+      - title: ASI Zubin Kembhavi Award (as part of the GROWTH-India Team)
+        date: 2026
+        awarder: Astronomical Society of India
+
+      - title: ANRF International Travel Support (ITS)
+        date: 2025
+        awarder: ANRF, Govt. of India
+
+      - title: ASI AstroSat Prize --- Honourable Mention
+        date: 2025
+        awarder: Astronomical Society of India
+
+      - title: IIA In-house Symposium Best Poster --- Runner-up
+        date: 2024
+        awarder: Indian Institute of Astrophysics
+
+      - title: Institute Junior & Senior Research Fellowship (JRF/SRF)
+        date: 2020
+        awarder: Indian Institute of Astrophysics
+        summary: "2020--2025"
+
+      - title: Foundation for Polish Science TEAM Project Grant & Travel Allowance
+        date: 2019
+        awarder: Foundation for Polish Science
+
+      - title: Torun Astrophysics/Physics Summer Programme (TAPS) Allowance
+        date: 2019
+        awarder: Nicolaus Copernicus University
+
+      - title: IIA Summer Programme Fellowship (IIA SPF)
+        date: 2018
+        awarder: Indian Institute of Astrophysics
+
+      - title: Indian Academy of Sciences Summer Research Fellowship (IASc SRFP)
+        date: 2017
+        awarder: Indian Academy of Sciences
+
+      - title: Kishore Vaigyanik Protsahan Yojana (KVPY) National Science Fellowship
+        date: 2015
+        awarder: Govt. of India
+        summary: "2015--2020"
+
+    Skills:
+      - name: Facilities (PI)
+        level: Expert
+        icon: fa-solid fa-telescope
+        keywords: "HCT (114 hr), GIT (M31 daily-cadence survey), AstroSat/UVIT (59 ks), AstroSat/SXT (140 ks)"
+
+      - name: Facilities (CoI)
+        level: Expert
+        icon: fa-solid fa-satellite
+        keywords: "HCT (194 hr), AstroSat/SXT (58 ks)"
+
+      - name: Archives
+        level: Proficient
+        icon: fa-solid fa-database
+        keywords: "Swift (UVOT, XRT), ZTF, HST, Keck, P200, CFHT"
+
+      - name: Data Reduction
+        level: Expert
+        icon: fa-solid fa-code
+        keywords: "IRAF, PyRAF, CCDLAB, HEASoft (XSELECT, XIMAGE)"
+
+      - name: Spectral Modelling
+        level: Proficient
+        icon: fa-solid fa-chart-line
+        keywords: "XSPEC, CLOUDY, PHOENIX"
+
+      - name: Computing
+        level: Proficient
+        icon: fa-solid fa-laptop
+        keywords: "Python, C, MATLAB, Linux"
+
+    Languages:
+      - name: Bengali
+        summary: "Native speaker"
+      - name: English
+        summary: "Fluent"
+      - name: Hindi
+        summary: "Proficient"
+
+    Interests:
+      - name: Research
+        icon: fa-solid fa-star
+        keywords: "Recurrent Novae, Classical Novae, Type Ia Supernova Progenitors, Fast X-ray Transients, FBOTs, Time-domain Astronomy"
