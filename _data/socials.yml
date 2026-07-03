@@ -17,7 +17,6 @@ scholar_userid: UJooap4AAAAJ # your Google Scholar ID
 github_username: judha-basu
 orcid_id: 0000-0001-7570-545X
 custom_social:
-  ads:
-    logo: ai ai-ads
-    title: ADS
-    url: https://ui.adsabs.harvard.edu/public-libraries/GShc9OrqT46YKDlt94sGyQ
+  logo: ai ai-ads
+  title: ADS
+  url: https://ui.adsabs.harvard.edu/public-libraries/GShc9OrqT46YKDlt94sGyQ
