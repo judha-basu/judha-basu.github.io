@@ -32,6 +32,6 @@ I completed my PhD from IIA, and before that, I was an integrated BSc-MSc studen
 My research is in time-domain and high-energy astrophysics. 
 I investigate erupting and exploding stars, including recurrent novae, fast X-ray transients, and supernovae. 
 The sky is our lab, and the telescopes are our instruments. Some of my favourite tools for observing explosions in space include [AstroSat](https://www.isro.gov.in/AstroSat.html) ([Ultraviolet Imaging Telescope](https://www.iiap.res.in/projects/uvit/) and [Soft X-ray Telescope](https://www.tifr.res.in/astrosat_sxt/index.html)), [Swift](https://swift.gsfc.nasa.gov/) ([Ultraviolet Optical Telescope](https://swift.gsfc.nasa.gov/about_swift/uvot_desc.html) and [X-ray Telescope](https://swift.gsfc.nasa.gov/about_swift/xrt_desc.html)), [GROWTH-India Telescope](https://sites.google.com/view/growthindia/), 
-and the [Himalayan Chandra Telescope](https://www.iiap.res.in/iao/hct.html).
+and the [Himalayan Chandra Telescope](https://www.iiap.res.in/centers/iao/facilities/hct/).
 
 Outside work, I like to play football and explore new dishes!
