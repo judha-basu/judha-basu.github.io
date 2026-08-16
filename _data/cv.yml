@@ -2,9 +2,9 @@ cv:
   name: Judhajeet Basu
   label: Postdoctoral Researcher
   email: judhajeet20@gmail.com
-  location: Indian Institute of Astrophysics, Bengaluru, India
+  location: Indian Institute of Technology, Bombay, India
   image: ""
-  summary: My research centers on observational time-domain astronomy with an emphasis on novae and the role of recurrent novae in the Type Ia supernovae progenitor problem. I combine optical, UV and X-ray data to probe the physics of transients. I like to contribute to survey science and pipeline development for transient detection. I maintain active interests in fast (FXTs, FBOTs, GRBs, CVs) and slow (LRNe, CL-AGN) transients.
+  summary: My research centers on observational time-domain astronomy with an emphasis on fast X-ray transients. I combine optical, UV and X-ray data to probe the physics of transients. I like to contribute to survey science and pipeline development for transient detection. I maintain active interests in fast (FXTs, FBOTs, GRBs, CVs) and slow (LRNe, CL-AGN) transients.
 
   social_networks:
     - network: GitHub
@@ -14,11 +14,19 @@ cv:
 
   sections:
     Experience:
+      - company: Indian Institute of Technology Bombay
+        position: Postdoctoral Researcher
+        location: Mumbai, India
+        start_date: 2026-08
+        end_date: present
+        highlights:
+          - Time-domain survey science, including FXTs, GRBs, and Novae.
+
       - company: Indian Institute of Astrophysics
         position: Postdoctoral Researcher
         location: Bengaluru, India
         start_date: 2025-08
-        end_date: present
+        end_date: 2026-08
         highlights:
           - Time-domain survey science including novae, CVs, LRNe, supernovae, FXTs, FBOTs, and changing-look AGN.
 
