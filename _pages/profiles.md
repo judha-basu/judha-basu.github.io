@@ -14,7 +14,7 @@ profiles:
     content: about_JB.md
     image_circular: true # crops the image to make it circular
     more_info: >
-      <p>Jocelyn Bell Hall</p>
-      <p>Indian Institute of Astrophysics</p>
-      <p>Bangalore, India, 560034</p>
+      <p>STAR Lab</p>
+      <p>Indian Institute of Technology Bombay</p>
+      <p>Mumbai, India, 400076</p>
 ---
