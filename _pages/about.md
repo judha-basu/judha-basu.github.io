@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Postdoctoral Researcher, <a href='https://www.iiap.res.in/'>Indian Institute of Astrophysics</a>, Bengaluru
+subtitle: Postdoctoral Researcher, <a href='https://www.iitb.ac.in/'>Indian Institute of Technology Bombay</a>
 
 profile:
   align: right
