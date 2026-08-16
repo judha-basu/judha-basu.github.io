@@ -9,9 +9,9 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>Jocelyn Bell Hall</p>
-    <p>Indian Institute of Astrophysics</p>
-    <p>Bangalore, India, 560034</p>
+    <p>STAR Lab</p>
+    <p>Indian Institute of Technology Bombay</p>
+    <p>Mumbai, India, 400076</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
@@ -26,8 +26,8 @@ latest_posts:
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
-Hello! I am Judhajeet Basu, a postdoctoral researcher at the [Indian Institute of Astrophysics](https://www.iiap.res.in/), Bengaluru. 
-I completed my PhD from IIA, and before that, I was an integrated BSc-MSc student of Physics at [IIT Kharagpur](https://www.iitkgp.ac.in/).
+Hello! I am Judhajeet Basu, a postdoctoral researcher at the [Indian Institute of Technology, Bombay](https://www.iitb.ac.in/). 
+I completed my PhD from [Indian Institute of Astrophysics](https://www.iiap.res.in/) Bengaluru, and before that, I was an integrated BSc-MSc student in Physics at [IIT Kharagpur](https://www.iitkgp.ac.in/).
 
 My research is in time-domain and high-energy astrophysics. 
 I investigate erupting and exploding stars, including recurrent novae, fast X-ray transients, and supernovae. 
